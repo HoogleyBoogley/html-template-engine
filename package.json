@@ -1,0 +1,24 @@
+{
+  "name": "html-template-engine",
+  "version": "0.1.0",
+  "description": "A better template engine for backend developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoogleyBoogley/html-template-engine.git"
+  },
+  "keywords": [
+    "html",
+    "template",
+    "engine"
+  ],
+  "author": "Danny Tran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HoogleyBoogley/html-template-engine/issues"
+  },
+  "homepage": "https://github.com/HoogleyBoogley/html-template-engine#readme"
+}
